@@ -1,2 +1,2 @@
-# Jupyter_nbviewer_models
-MDA
+# nbviewer_models
+Modern Data Analytics Models to run through nbviewer Jupyter
